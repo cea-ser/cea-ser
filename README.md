@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sezer Uzun</h1>
-<h3 align="center">Founder of TeamCyberless Softwares</h3>
+<h3 align="center">Co-founder of TeamCyberless Softwares</h3>
 
 <p align="center">
 <img alt="ceasser" src="https://komarev.com/ghpvc/?username=ceasser&label=Profile%20views&color=0e75b6&style=flat" />
