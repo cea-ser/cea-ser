@@ -9,10 +9,10 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceasser&theme=monokai&no-frame=true&row=1&column=8&include_all_commits=true&count_private=true" alt="GitHub Profile Trophy" /></a>
 </p>
 
--  I’m currently working on **[Cyberless: Online](https://store.steampowered.com/app/1175540/Cyberless_Online/)**
--  I’m looking for help with **Game Development**
+-  I’m currently working on **[Cyberless: Online](https://store.steampowered.com/app/1175540/Cyberless_Online/), LifeBox VR...**
+-  I’m looking for help with **Game Development/Desing **
 -  Ask me about **Unreal Engine, C++, C#...**
--  How to reach me **[Mail](mailto:youremail@example.com)**
+-  How to reach me **[Office](ceaseroffice@gmail.com)**
 -  Fun fact: **I think I'm a robot.**
 
 <h3 align="left">Connect with me:</h3>
