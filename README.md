@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sezer</h1>
 <h3 align="center">Co-founder of TeamCyberless Softwares</h3>
 
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ceasser&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceasser&theme=monokai&no-frame=true&row=1&column=8&include_all_commits=true&count_private=true" alt="GitHub Profile Trophy" /></a>
-</p>
-
 -  I’m currently working on **[Cyberless: Online](https://store.steampowered.com/app/1175540/Cyberless_Online/), LifeBox VR...**
 -  I’m looking for help with **Game Development/Desing **
 -  Ask me about **Unreal Engine, C++, C#...**
@@ -42,8 +34,4 @@
   <a href="https://www.perforce.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/perforce/perforce-icon.svg" alt="Perforce" width="40" height="40" /></a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" /></a>
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40" /></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceasser&theme=monokai&hide_border=true&count_private=true&langs_count=8" alt="GitHub Streak" />
 </p>
