@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sezer Uzun</h1>
+<h1 align="center">Hi 👋, I'm Sezer</h1>
 <h3 align="center">Co-founder of TeamCyberless Softwares</h3>
 
 <p align="center">
@@ -9,17 +9,19 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceasser&theme=monokai&no-frame=true&row=1&column=8&include_all_commits=true&count_private=true" alt="GitHub Profile Trophy" /></a>
 </p>
 
-- 🔭 I’m currently working on **[Cyberless: Online](https://store.steampowered.com/app/1175540/Cyberless_Online/)**
-- 🤝 I’m looking for help with **Game Development**
-- 💬 Ask me about **Unreal Engine, C#...**
-- 📫 How to reach me **[Mail](mailto:youremail@example.com)**
-- ⚡ Fun fact: **I think I'm a robot.**
+-  I’m currently working on **[Cyberless: Online](https://store.steampowered.com/app/1175540/Cyberless_Online/)**
+-  I’m looking for help with **Game Development**
+-  Ask me about **Unreal Engine, C++, C#...**
+-  How to reach me **[Mail](mailto:youremail@example.com)**
+-  Fun fact: **I think I'm a robot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/tcyberless" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/ceasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.instagram.com/teamcyberless/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://discord.com/invite/QDezpy4QtV" target="blank"><img align="center" src="![image](https://github.com/Ceasser/Ceasser/assets/73486152/bef19727-138d-4575-ab84-f06d90bde6bb)
+" alt="Discord" height="30" width="40" /></a>
   <a href="https://discord.gg/4fYW9PajPB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
   <a href="https://forums.unrealengine.com/u/ceasser/" target="blank"><img align="center" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine Forum" height="30" width="40" /></a>
 </p>
