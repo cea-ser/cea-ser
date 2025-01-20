@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sezer</h1>
 <h3 align="center">Co-founder of TeamCyberless Softwares</h3>
 
--  I’m currently working on **[Cyberless: Online](https://store.steampowered.com/app/1175540/Cyberless_Online/), LifeBox VR...**
--  I’m looking for help with **Game Development/Desing**
--  Ask me about **Unreal Engine, C++, C#...**
--  How to reach me **[Office](ceaseroffice@gmail.com)**
--  Fun fact: **I think I'm a robot.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/tcyberless" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
